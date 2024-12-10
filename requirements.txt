@@ -1,4 +1,4 @@
-
-streamlit
-pandas
-matplotlib
+streamlit==1.26.0
+pandas==1.5.3
+matplotlib==3.7.1
+workalendar==16.4.1
